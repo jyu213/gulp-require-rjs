@@ -1,0 +1,15 @@
+{
+  "name": "gulp-require-rjs",
+  "version": "0.0.5",
+  "description": "a interface with r.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jyu213@gmail.com (见见)",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "*",
+    "requirejs": "*"
+  }
+}
