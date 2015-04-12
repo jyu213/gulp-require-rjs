@@ -4,7 +4,11 @@
 
 > r.js optimizer plugin for [gulp](https://github.com/wearefractal/gulp)
 
-## Describe
+## Description
+A gulp interface to r.js.  
+* you can package multiple files simultaneously with r.js optimizer.
+* it can be pass params directly into r.js.
+* add a param named `outPath`, so it can change the package way; the default value is `baseUrl`.
 
 
 ## How to use
