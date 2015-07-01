@@ -49,6 +49,5 @@ module.exports = function (options) {
         console.log("node r.js -o baseUrl=" + options.baseUrl + " name=" + name + " out=" + outPath);
         requirejs.optimize(cfg);
       });
-      console.log('success!');
     });
 };
